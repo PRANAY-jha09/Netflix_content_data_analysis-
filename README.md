@@ -123,7 +123,7 @@ Interactive Power BI dashboard highlights:
 - Genre diversity treemap/pie
 - Top performers & ratings histograms
 
-![Netflix Portfolio Dashboard](images/dashboard.png)
+![Netflix Portfolio Dashboard](dashboard screenshot/Screenshot 2025-12-27 155304.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
