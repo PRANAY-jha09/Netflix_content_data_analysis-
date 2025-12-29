@@ -45,9 +45,9 @@ In the competitive streaming market, Netflix must optimize its library for reten
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
-- SQL (CTEs, Window Functions, Aggregations)
+- SQL (joins, Group by, Aggregations)
 - Python (Pandas, Matplotlib, Seaborn, SciPy)
-- Power BI (DAX, Interactive Visuals)
+- Tableu (DAX, Interactive Visuals)
 - GitHub
 
 ---
