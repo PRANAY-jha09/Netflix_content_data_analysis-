@@ -145,7 +145,7 @@ python scripts/content_summary.py
    - `notebooks/exploratory_data_analysis.ipynb`
    - `notebooks/netflix_portfolio_analysis.ipynb`
 5. Open dashboard:
-   - `dashboard/netflix_portfolio.pbix`
+   - `dashboard/netflix_portfolio.twbx`
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
