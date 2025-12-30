@@ -117,7 +117,7 @@ netflix-content-analysis/
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-Interactive Power BI dashboard highlights:
+Interactive Tableu dashboard highlights:
 - Global geo map (content by country)
 - Portfolio size/content age bars
 - Genre diversity treemap/pie
