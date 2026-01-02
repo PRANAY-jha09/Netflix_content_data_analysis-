@@ -69,8 +69,9 @@ netflix-content-analysis/
 │   ├── data_ingestion.py
 │   └── content_summary.py
 │
-├── dashboard/                  # Power BI files
-│   └── netflix_portfolio.pbix
+├── dashboard/                  #
+Tableu files
+│   └── netflix_portfolio.twbx
 │
 └── data/                       # Raw & processed CSVs
     ├── netflix_titles.csv
