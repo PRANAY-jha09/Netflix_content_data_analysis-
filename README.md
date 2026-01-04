@@ -69,7 +69,7 @@ netflix-content-analysis/
 │   ├── data_ingestion.py
 │   └── content_summary.py
 │
-├── dashboard/                  #
+├── dashboard/                  # Tableu dashboards
 Tableu files
 │   └── netflix_portfolio.twbx
 │
