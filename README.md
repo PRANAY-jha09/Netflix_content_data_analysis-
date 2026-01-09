@@ -1,4 +1,3 @@
-
 # 🧾 Netflix Content Portfolio Analysis – Shows & Movies Optimization
 
 _Analyzing Netflix's global content library to optimize acquisitions, genre diversity, and viewer engagement using SQL, Python, and Tableu._
