@@ -21,7 +21,7 @@ _Analyzing Netflix's global content library to optimize acquisitions, genre dive
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This project evaluates Netflix's content portfolio across genres, age, geography, and ratings to drive data-informed content strategies. A full pipeline was built with SQL for ETL, Python for advanced analysis and stats testing, and Power BI for interactive dashboards.
+This project evaluates Netflix's content portfolio across genres, age, geography, and ratings to drive data-informed content strategies. A full pipeline was built with SQL for ETL, Python for advanced analysis and stats testing, tableu and Power BI for interactive dashboards.
 
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
